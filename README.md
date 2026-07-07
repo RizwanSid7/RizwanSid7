@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rizwan Siddiqui</h1>
-<h3 align="center">Cloud & Compliance Engineer | Microsoft Azure & Microsoft 365 | Purview | Entra ID | Terraform</h3>
+<h1 align="center">Hello 👋, I'm Rizwan Siddiqui</h1>
+<h3 align="center">Cloud & DevOps Engineer | Azure and AWS | Purview Compliance | Postgres and MySQL Databases
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Cloud+%26+Compliance+Engineer;Azure+%7C+Microsoft+365+%7C+Purview+%7C+Entra+ID;Terraform+%7C+Docker+%7C+Kubernetes;AZ-104+%7C+AZ-900+%7C+GitHub+Foundations+Certified" alt="Typing SVG" />
