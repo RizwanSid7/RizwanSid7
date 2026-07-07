@@ -45,18 +45,18 @@
 
 ## 👨‍💻 About Me
 
-I am a **Cloud & DevOps Engineer** with **3.5+ years of experience** across cloud operations, infrastructure support, Microsoft 365 compliance, and automation-focused engineering. My work is centered around building reliable cloud environments, improving operational visibility, and supporting secure enterprise platforms.
+I am a **Cloud & DevOps Engineer** with **3.5+ years of experience** across cloud operations, infrastructure support, Microsoft 365 compliance, database administration, monitoring, and automation-focused engineering. My work focuses on building reliable cloud environments, improving operational visibility, supporting secure enterprise platforms, and solving real-world infrastructure issues.
 
-My core strength is a combination of **Microsoft Azure**, **Microsoft Purview Compliance**, **Microsoft Entra ID**, **Infrastructure as Code**, and database/cloud administration. I enjoy working on practical cloud projects, troubleshooting real-world issues, and documenting solutions in a way that teams can reuse and scale.
+My core strengths include **Microsoft Azure, Microsoft Entra ID, Terraform, Docker, Kubernetes, Microsoft Purview Compliance, Postgres, MySQL, Azure SQL, monitoring, and cloud infrastructure operations**. I enjoy working on practical cloud projects, troubleshooting production-style issues, and documenting solutions that can be reused, improved, and scaled by teams.
 
-- ☁️ Experience across **Azure cloud administration**, infrastructure operations, monitoring, networking, and governance
-- 🛡️ Hands-on with **Microsoft Purview**: DLP, eDiscovery, Audit, Retention, and compliance monitoring
-- 🔐 Working knowledge of **Microsoft Entra ID**, access governance, identity security, and conditional access concepts
-- ⚙️ Practical exposure to **Terraform**, **Docker**, **Kubernetes**, **GitHub Actions**, Jenkins, and automation workflows
-- 🗄️ Database exposure with **Postgres**, **MySQL**, Azure SQL, and cloud database deployment basics
-- 📊 Interested in **monitoring, observability, incident response, cloud security, and SRE-style operations**
-- 🏅 Certified in **AZ-104**, **AZ-900**, and **GitHub Foundations**; currently working toward **SC-400**
-- 🌍 Exploring cloud and DevOps opportunities across **India, UAE, Qatar, and the wider GCC region**
+- ☁️ Experience across **Azure cloud administration, infrastructure operations, networking, governance, and cloud monitoring**
+- 🗄️ Hands-on experience with **Postgres, MySQL, Azure SQL**, and cloud database deployment/administration basics
+- ⚙️ Experience with **Terraform, Docker, Kubernetes, GitHub Actions, Jenkins**, and automation workflows
+- 🛡️ Hands-on with **Microsoft Purview Compliance**: DLP, eDiscovery, Audit, Retention, and compliance monitoring
+- 🔐 Experience with **Microsoft Entra ID**, access governance, identity security, user access reviews, and conditional access concepts
+- 📊 Experience in **Azure Monitor, alerts, Log Analytics, incident review, observability, and operational troubleshooting**
+- 🏅 Certified in **AZ-104, AZ-900, and GitHub Foundations**; currently preparing for **SC-400**
+- 🤝 Open to **Cloud, DevOps, Azure, Microsoft 365 Compliance, freelance projects, technical collaboration, and contribution opportunities**
 
 ---
 
