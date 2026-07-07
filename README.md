@@ -1,11 +1,7 @@
-<!--
-  GitHub Profile README for RizwanSid7
-  Premium layout: professional header, responsive sections, clickable high-quality SVG badges.
-  Replace any placeholder links only if you have a live portfolio website later.
--->
+<!-- Premium GitHub Profile README for Rizwan Siddiqui -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=Rizwan%20Siddiqui&fontSize=44&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Azure%20%7C%20AWS%20%7C%20Purview%20Compliance&descSize=16&descAlignY=58&animation=fadeIn&fontColor=FFFFFF" alt="Rizwan Siddiqui professional GitHub profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:22D3EE&amp;height=230&amp;section=header&amp;text=Rizwan%20Siddiqui&amp;fontSize=58&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Cloud%20DevOps%20Engineer%20-%20Azure%20Microsoft%20365%20Compliance%20Databases&amp;descSize=18&amp;descAlignY=58&amp;animation=twinkling" alt="Rizwan Siddiqui professional GitHub profile banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rizwan Siddiqui</h1>
@@ -13,260 +9,298 @@
 <h3 align="center">
   Cloud & DevOps Engineer<br/>
   Azure and AWS | Purview Compliance | Entra ID<br/>
-  Postgres and MySQL Databases
+  Postgres and MySQL Databases | Database Trainer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Cloud+%26+DevOps+Engineer;Azure+%7C+AWS+%7C+Microsoft+365+%7C+Purview;Entra+ID+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Postgres+%7C+MySQL+%7C+Azure+Monitor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=950&amp;lines=Cloud+and+DevOps+Engineer;Azure+%7C+Microsoft+365+Compliance+%7C+Entra+ID;Terraform+%7C+Docker+%7C+Kubernetes+%7C+CI/CD;Postgres+%7C+MySQL+%7C+Azure+SQL;Monitoring+%7C+Automation+%7C+Infrastructure+Operations;Database+Trainer+and+Cloud+Lab+Builder" alt="Typing animation for Rizwan Siddiqui profile" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rizwan-siddiqui-18139116a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rizwansiddiqui483@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.credly.com/users/rizwan-siddiqui.679eebc3" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&amp;logo=credly&amp;logoColor=white" alt="Credly" />
   </a>
   <a href="https://github.com/RizwanSid7?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20%2F%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio and Projects" />
+    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Projects" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RizwanSid7&style=for-the-badge&color=0EA5E9" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/RizwanSid7?style=for-the-badge&logo=github&label=Followers&color=111827" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/RizwanSid7?style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=RizwanSid7&amp;style=for-the-badge&amp;color=2563EB" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/RizwanSid7?style=for-the-badge&amp;logo=github&amp;label=Followers" alt="GitHub followers" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-I am a **Cloud & DevOps Engineer** with **3.5+ years of experience** across cloud operations, infrastructure support, Microsoft 365 compliance, database administration, monitoring, and automation-focused engineering. My work focuses on building reliable cloud environments, improving operational visibility, supporting secure enterprise platforms, and solving real-world infrastructure issues.
+**Cloud & DevOps Engineer** with **3.5+ years of experience** across cloud operations, infrastructure support, Microsoft 365 compliance, database administration, monitoring, and automation-focused engineering. I work on building reliable cloud environments, improving operational visibility, supporting secure enterprise platforms, and documenting repeatable solutions for technical teams.
 
-My core strengths include **Microsoft Azure, Microsoft Entra ID, Terraform, Docker, Kubernetes, Microsoft Purview Compliance, Postgres, MySQL, Azure SQL, monitoring, and cloud infrastructure operations**. I enjoy working on practical cloud projects, troubleshooting production-style issues, and documenting solutions that can be reused, improved, and scaled by teams.
+My core strengths include **Microsoft Azure, Microsoft Entra ID, Terraform, Docker, Kubernetes, Microsoft Purview Compliance, Postgres, MySQL, Azure SQL, Azure Monitor, Log Analytics, and infrastructure operations**. Along with engineering work, I also create and teach **database fundamentals and cloud database labs**, helping learners understand DBMS/RDBMS concepts, SQL, PostgreSQL, MySQL, and cloud database deployment in a simple practical way.
+
+---
+
+## 🚀 About Me
 
 - ☁️ Experience across **Azure cloud administration, infrastructure operations, networking, governance, and cloud monitoring**
 - 🗄️ Hands-on experience with **Postgres, MySQL, Azure SQL**, and cloud database deployment/administration basics
+- 🎓 I also teach **database concepts, SQL fundamentals, PostgreSQL, MySQL, and Azure database labs** through beginner-friendly practical sessions
 - ⚙️ Experience with **Terraform, Docker, Kubernetes, GitHub Actions, Jenkins**, and automation workflows
 - 🛡️ Hands-on with **Microsoft Purview Compliance**: DLP, eDiscovery, Audit, Retention, and compliance monitoring
 - 🔐 Experience with **Microsoft Entra ID**, access governance, identity security, user access reviews, and conditional access concepts
 - 📊 Experience in **Azure Monitor, alerts, Log Analytics, incident review, observability, and operational troubleshooting**
 - 🏅 Certified in **AZ-104, AZ-900, and GitHub Foundations**; currently preparing for **SC-400**
-- 🤝 Open to **Cloud, DevOps, Azure, Microsoft 365 Compliance, freelance projects, technical collaboration, and contribution opportunities**
+- 🤝 Open to **Cloud, DevOps, Azure, Microsoft 365 Compliance, freelance projects, database training, technical collaboration, and contribution opportunities**
 
 ---
 
-## 🚀 Professional Focus
+## 🧩 Core Expertise Matrix
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>☁️ Cloud Engineering</h3>
-      <p>Azure infrastructure, virtual machines, networking, storage, monitoring, access control, and cloud operations.</p>
-    </td>
-    <td width="50%">
-      <h3>🛡️ Compliance Engineering</h3>
-      <p>Microsoft Purview DLP, eDiscovery, Audit, Retention, sensitivity labels, and data governance workflows.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚙️ DevOps & Automation</h3>
-      <p>Terraform, CI/CD concepts, GitHub Actions, Jenkins, Docker, Kubernetes basics, and repeatable deployments.</p>
-    </td>
-    <td width="50%">
-      <h3>📊 Monitoring & Troubleshooting</h3>
-      <p>Azure Monitor, Log Analytics, alerting, diagnostics, infrastructure checks, and operational reporting.</p>
-    </td>
-  </tr>
+<tr>
+<td width="25%" align="center"><strong>☁️ Cloud</strong></td>
+<td>Azure administration, Azure VMs, VNets, NSGs, Storage, Azure Monitor, AWS fundamentals, cloud governance</td>
+</tr>
+<tr>
+<td width="25%" align="center"><strong>⚙️ DevOps</strong></td>
+<td>Terraform, Docker, Kubernetes, GitHub Actions, Jenkins, Git, automation workflows, infrastructure documentation</td>
+</tr>
+<tr>
+<td width="25%" align="center"><strong>🛡️ Compliance</strong></td>
+<td>Microsoft Purview, DLP, eDiscovery, Audit, Retention, compliance monitoring, policy review</td>
+</tr>
+<tr>
+<td width="25%" align="center"><strong>🔐 Identity</strong></td>
+<td>Microsoft Entra ID, conditional access concepts, identity governance, user access reviews, security controls</td>
+</tr>
+<tr>
+<td width="25%" align="center"><strong>🗄️ Databases</strong></td>
+<td>PostgreSQL, MySQL, Azure SQL, SQL queries, client connectivity, firewall/SSL basics, cloud database labs</td>
+</tr>
+<tr>
+<td width="25%" align="center"><strong>📊 Monitoring</strong></td>
+<td>Azure Monitor, Log Analytics, alerts, incident review, observability, operational troubleshooting</td>
+</tr>
+<tr>
+<td width="25%" align="center"><strong>🎓 Training</strong></td>
+<td>Database training, SQL basics, DBMS/RDBMS concepts, PostgreSQL/MySQL labs, beginner-friendly technical teaching</td>
+</tr>
 </table>
 
 ---
 
 ## 🛠️ Tech Stack & Official Documentation
 
-> Click any badge below to open the official documentation for that tool or service.
+> Click any badge to open the official documentation or product page.
 
-<details open>
-<summary><b>☁️ Cloud Platforms & Microsoft Ecosystem</b></summary>
-<br/>
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/azure/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" /></a>
-  <a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS" /></a>
-  <a href="https://learn.microsoft.com/en-us/microsoft-365/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Microsoft 365" /></a>
-  <a href="https://learn.microsoft.com/en-us/purview/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Purview-5E5ADB?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Purview" /></a>
-  <a href="https://learn.microsoft.com/en-us/entra/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Entra ID" /></a>
-  <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/" target="_blank"><img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Monitor" /></a>
-</p>
-</details>
+### ☁️ Cloud, Identity & Compliance
 
-<details open>
-<summary><b>⚙️ DevOps, IaC & CI/CD</b></summary>
-<br/>
 <p align="left">
-  <a href="https://developer.hashicorp.com/terraform/docs" target="_blank"><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /></a>
-  <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://kubernetes.io/docs/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
-  <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
-  <a href="https://www.jenkins.io/doc/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /></a>
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://docs.github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://learn.microsoft.com/azure/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Azure" /></a>
+  <a href="https://aws.amazon.com/documentation/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS" /></a>
+  <a href="https://learn.microsoft.com/microsoft-365/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&amp;logo=microsoft365&amp;logoColor=white" alt="Microsoft 365" /></a>
+  <a href="https://learn.microsoft.com/entra/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Microsoft Entra ID" /></a>
+  <a href="https://learn.microsoft.com/purview/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Purview-5E5CE6?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Microsoft Purview" /></a>
 </p>
-</details>
 
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-<p align="left">
-  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="https://learn.microsoft.com/en-us/azure/postgresql/" target="_blank"><img src="https://img.shields.io/badge/Azure%20Database%20for%20PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Azure Database for PostgreSQL" /></a>
-  <a href="https://learn.microsoft.com/en-us/azure/mysql/" target="_blank"><img src="https://img.shields.io/badge/Azure%20Database%20for%20MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Azure Database for MySQL" /></a>
-  <a href="https://learn.microsoft.com/en-us/azure/azure-sql/" target="_blank"><img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure SQL" /></a>
-</p>
-</details>
+### ⚙️ DevOps, Automation & Infrastructure as Code
 
-<details open>
-<summary><b>📊 Monitoring, Observability & Operations</b></summary>
-<br/>
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-overview" target="_blank"><img src="https://img.shields.io/badge/Log%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Log Analytics" /></a>
-  <a href="https://prometheus.io/docs/introduction/overview/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
-  <a href="https://grafana.com/docs/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
-  <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview" target="_blank"><img src="https://img.shields.io/badge/Azure%20Alerts-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Alerts" /></a>
+  <a href="https://developer.hashicorp.com/terraform/docs" target="_blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform" /></a>
+  <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" /></a>
+  <a href="https://kubernetes.io/docs/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" /></a>
+  <a href="https://docs.github.com/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" /></a>
+  <a href="https://www.jenkins.io/doc/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins" /></a>
+  <a href="https://docs.ansible.com/" target="_blank"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&amp;logo=ansible&amp;logoColor=white" alt="Ansible" /></a>
 </p>
-</details>
 
-<details open>
-<summary><b>💻 Operating Systems, Scripting & Web</b></summary>
-<br/>
+### 🗄️ Databases & Cloud Data Platforms
+
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></a>
-  <a href="https://www.python.org/doc/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.gnu.org/software/bash/manual/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /></a>
-  <a href="https://ubuntu.com/server/docs" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-  <a href="https://learn.microsoft.com/en-us/windows-server/" target="_blank"><img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" /></a>
-  <a href="https://nginx.org/en/docs/" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" /></a>
+  <a href="https://learn.microsoft.com/azure/azure-sql/" target="_blank"><img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure SQL" /></a>
+  <a href="https://learn.microsoft.com/azure/postgresql/" target="_blank"><img src="https://img.shields.io/badge/Azure%20PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Azure Database for PostgreSQL" /></a>
+  <a href="https://learn.microsoft.com/azure/mysql/" target="_blank"><img src="https://img.shields.io/badge/Azure%20MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="Azure Database for MySQL" /></a>
+  <a href="https://www.pgadmin.org/docs/" target="_blank"><img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="pgAdmin" /></a>
+  <a href="https://dbeaver.com/docs/dbeaver/" target="_blank"><img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&amp;logo=dbeaver&amp;logoColor=white" alt="DBeaver" /></a>
 </p>
-</details>
+
+### 📊 Monitoring, Operations & Troubleshooting
+
+<p align="left">
+  <a href="https://learn.microsoft.com/azure/azure-monitor/" target="_blank"><img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure Monitor" /></a>
+  <a href="https://learn.microsoft.com/azure/azure-monitor/logs/log-analytics-overview" target="_blank"><img src="https://img.shields.io/badge/Log%20Analytics-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Log Analytics" /></a>
+  <a href="https://grafana.com/docs/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana" /></a>
+  <a href="https://prometheus.io/docs/introduction/overview/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white" alt="Prometheus" /></a>
+</p>
+
+### 💻 Programming, Scripting & Version Control
+
+<p align="left">
+  <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /></a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell" /></a>
+  <a href="https://www.gnu.org/software/bash/manual/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" /></a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" /></a>
+  <a href="https://docs.github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://learn.microsoft.com/windows-server/" target="_blank"><img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows Server" /></a>
+  <a href="https://www.kernel.org/doc/html/latest/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" /></a>
+</p>
 
 ---
 
-## 🛡️ Microsoft Purview & Compliance Areas
+## 🏗️ Featured Projects
 
 <table>
-  <tr>
-    <td><b>DLP</b></td>
-    <td>Policy creation, sensitive information types, confidence levels, false positive review, alert investigation</td>
-  </tr>
-  <tr>
-    <td><b>eDiscovery</b></td>
-    <td>Content search, case management, export support, legal and investigation workflows</td>
-  </tr>
-  <tr>
-    <td><b>Audit</b></td>
-    <td>Unified audit log review, user/activity investigation, compliance event tracing</td>
-  </tr>
-  <tr>
-    <td><b>Retention</b></td>
-    <td>Retention policies, retention labels, defensible deletion, lifecycle governance</td>
-  </tr>
-  <tr>
-    <td><b>Identity & Access</b></td>
-    <td>Microsoft Entra ID, access reviews, conditional access concepts, identity governance</td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ Azure Serverless Image Processor
+Built an event-driven image processing pipeline using **Azure Functions, Blob Storage, Event Grid, and Terraform**. Focused on serverless automation, storage triggers, and IaC-based provisioning.
+
+<a href="https://github.com/RizwanSid7/azure-serverless-image-processor" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Azure Serverless Image Processor" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Azure Windows VM with Terraform
+Provisioned Azure infrastructure using **Terraform, Azure VM, VNet, NSG, NIC, and Public IP** with a clean reusable file structure.
+
+<a href="https://github.com/RizwanSid7/azure-windows-vm-terraform" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Azure Windows VM Terraform" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Azure VM Monitoring Automation
+Created a Python-based automation workflow to check Azure VM state, generate logs, and support operational visibility through scheduled monitoring.
+
+<a href="https://github.com/RizwanSid7/azure-vm-monitoring-automation" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Azure VM Monitoring Automation" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 RuView WiFi Intelligence Project
+Real-time spatial intelligence and monitoring concept using commodity WiFi signals, focused on monitoring use cases and signal-based intelligence.
+
+<a href="https://github.com/RizwanSid7/RuView" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="RuView Project" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ PostgreSQL and MySQL Cloud Database Labs
+Hands-on database learning and teaching labs covering **DBMS/RDBMS basics, SQL commands, Postgres, MySQL, Azure database deployment, pgAdmin, DBeaver, firewall rules, and SSL connectivity**.
+
+<a href="https://github.com/RizwanSid7?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Database%20Labs-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Database Labs" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Compliance and Monitoring Scenarios
+Documented operational scenarios across **Microsoft Purview, Azure Monitor, Log Analytics, DLP policy checks, alerts, and incident review** to support practical troubleshooting and compliance operations.
+
+<a href="https://github.com/RizwanSid7?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Repos-5E5CE6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Compliance and Monitoring Repositories" />
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📌 Featured Projects & Labs
+## 🎓 Database Training & Knowledge Sharing
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>☁️ Azure Serverless Image Processing</h3>
-      <p>Event-driven architecture using Azure Functions, Blob Storage, Event Grid, and Terraform.</p>
-      <a href="https://github.com/RizwanSid7/azure-serverless-image-processor" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>📊 Azure VM Monitoring Automation</h3>
-      <p>Python-based automation to identify stopped Azure VMs and generate operational alerts.</p>
-      <a href="https://github.com/RizwanSid7/azure-vm-monitoring-automation" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏗️ Azure Windows VM with Terraform</h3>
-      <p>Infrastructure as Code lab using Terraform modules for VM, VNet, NSG, NIC, and public IP.</p>
-      <a href="https://github.com/RizwanSid7/azure-windows-vm-terraform" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🔐 DevSecOps Netflix Project</h3>
-      <p>DevSecOps-oriented learning project covering CI/CD, containers, security checks, and deployment workflow.</p>
-      <a href="https://github.com/RizwanSid7/DevSecOps-Netflix-Project" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
-      </a>
-    </td>
-  </tr>
-</table>
+I also work on **database training and practical teaching content** for beginners and early-career engineers. My teaching style focuses on simple explanations, real examples, and hands-on labs so learners can understand not only commands, but also why the concept is used in real projects.
+
+**Training areas I cover:**
+
+- DBMS vs RDBMS fundamentals
+- Structured, semi-structured, and unstructured data
+- SQL basics: `CREATE`, `INSERT`, `SELECT`, `UPDATE`, `DELETE`, filtering, joins, and constraints
+- PostgreSQL and MySQL setup using pgAdmin, DBeaver, and cloud database services
+- Azure Database for PostgreSQL and Azure Database for MySQL deployment basics
+- Firewall rules, SSL connectivity, FQDN vs IP, client connectivity, and troubleshooting
+- Practical mini-projects for students and beginners
+
+---
+
+## 🔍 Real-World Troubleshooting Areas
+
+- Azure VM availability, performance, and monitoring issues
+- NSG, VNet, subnet, public IP, and connectivity troubleshooting
+- Azure Monitor alert rules, thresholds, action groups, and Log Analytics checks
+- Microsoft Purview DLP policy tuning, incident review, and false positive analysis
+- Database connectivity issues involving firewall rules, SSL mode, client tools, and authentication
+- Docker container checks, Kubernetes pod health, logs, and basic deployment validation
+- Documentation of repeatable fixes and operational steps for team usage
 
 ---
 
 ## 🏅 Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/users/rizwan-siddiqui.679eebc3" target="_blank">
-    <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104 Azure Administrator" />
-  </a>
-  <a href="https://www.credly.com/users/rizwan-siddiqui.679eebc3" target="_blank">
-    <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Azure Fundamentals" />
-  </a>
-  <a href="https://www.credly.com/users/rizwan-siddiqui.679eebc3" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Foundations-Certified-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations Certified" />
-  </a>
-  <img src="https://img.shields.io/badge/SC--400-In%20Progress-F59E0B?style=for-the-badge&logo=microsoft&logoColor=black" alt="SC-400 In Progress" />
+  <a href="https://learn.microsoft.com/credentials/certifications/azure-administrator/" target="_blank"><img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="AZ-104" /></a>
+  <a href="https://learn.microsoft.com/credentials/certifications/azure-fundamentals/" target="_blank"><img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="AZ-900" /></a>
+  <a href="https://resources.github.com/learn/pathways/foundations/" target="_blank"><img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Foundations" /></a>
+  <a href="https://learn.microsoft.com/credentials/certifications/information-protection-administrator/" target="_blank"><img src="https://img.shields.io/badge/SC--400-Preparing-8B5CF6?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="SC-400" /></a>
+  <a href="https://www.credly.com/users/rizwan-siddiqui.679eebc3" target="_blank"><img src="https://img.shields.io/badge/View%20Credly%20Profile-FF6B00?style=for-the-badge&amp;logo=credly&amp;logoColor=white" alt="Credly Profile" /></a>
 </p>
 
 ---
 
-## 🎯 Areas of Interest
+## 📌 Current Focus
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cloud%20Engineering-0F172A?style=for-the-badge" alt="Cloud Engineering" />
-  <img src="https://img.shields.io/badge/DevOps%20Engineering-1D4ED8?style=for-the-badge" alt="DevOps Engineering" />
-  <img src="https://img.shields.io/badge/CI%2FCD%20Automation-2563EB?style=for-the-badge" alt="CI/CD Automation" />
-  <img src="https://img.shields.io/badge/Kubernetes%20%26%20Containers-326CE5?style=for-the-badge" alt="Kubernetes and Containers" />
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-844FBA?style=for-the-badge" alt="Infrastructure as Code" />
-  <img src="https://img.shields.io/badge/Monitoring%20%26%20Observability-F46800?style=for-the-badge" alt="Monitoring and Observability" />
-  <img src="https://img.shields.io/badge/Cloud%20Security-059669?style=for-the-badge" alt="Cloud Security" />
-  <img src="https://img.shields.io/badge/SRE%20Practices-111827?style=for-the-badge" alt="SRE Practices" />
-</p>
+- Strengthening **Azure Monitor, Log Analytics, alerting, and incident response** skills
+- Building more DevOps projects using **Terraform, Docker, Kubernetes, and GitHub Actions**
+- Improving database administration and teaching content across **Postgres, MySQL, and Azure SQL**
+- Preparing for **Microsoft SC-400** to deepen Microsoft Purview and compliance knowledge
+- Creating practical cloud and database labs that can help beginners learn from real implementation steps
+
+---
+
+## 🤝 Open To
+
+- Cloud and DevOps collaboration
+- Freelance Azure, Microsoft 365, monitoring, and automation projects
+- Database training, SQL fundamentals sessions, and practical lab-based teaching
+- Technical documentation and GitHub project contribution opportunities
+- Cloud monitoring, compliance, infrastructure support, and troubleshooting work
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RizwanSid7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rizwan Siddiqui GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanSid7&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RizwanSid7&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true&amp;hide_border=true" alt="Rizwan Siddiqui GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanSid7&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Rizwan Siddiqui top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizwanSid7&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=RizwanSid7&amp;theme=tokyonight&amp;hide_border=true" alt="Rizwan Siddiqui GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizwanSid7&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizwanSid7&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Rizwan Siddiqui GitHub contribution graph" />
 </p>
 
 ---
@@ -275,25 +309,23 @@ My core strengths include **Microsoft Azure, Microsoft Entra ID, Terraform, Dock
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rizwan-siddiqui-18139116a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rizwansiddiqui483@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.credly.com/users/rizwan-siddiqui.679eebc3" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&amp;logo=credly&amp;logoColor=white" alt="Credly" />
   </a>
-  <a href="https://github.com/RizwanSid7?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
+  <a href="https://github.com/RizwanSid7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <b>⭐ Building secure cloud systems, automating workflows, and learning continuously.</b>
+  <strong>⭐ Building reliable cloud systems, automating workflows, teaching databases, and continuously improving.</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=110&section=footer" alt="Footer banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22D3EE,50:2563EB,100:0F172A&amp;height=120&amp;section=footer&amp;animation=twinkling" alt="Footer wave banner" />
 </p>
