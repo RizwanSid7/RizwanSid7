@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Cloud & Compliance Engineer with 3+ years of experience across **Microsoft Azure** and **Microsoft 365**
+- 🔭 Cloud & Compliance Engineer with 3.5+ years of experience across **Microsoft Azure** and **Microsoft 365**
 - 🛡️ Core expertise in **Microsoft Purview** (DLP, eDiscovery, Audit), **Azure Entra ID**, and Infrastructure as Code with **Terraform**
 - 🐳 Comfortable with **Docker**, **Kubernetes**, **VNets**, **NSGs**, and **Azure Monitor**
 - 🏅 Certified: **AZ-104**, **AZ-900**, **GitHub Foundations** — currently working toward **SC-400**
