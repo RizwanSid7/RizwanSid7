@@ -42,7 +42,7 @@
 
 **Cloud & DevOps Engineer** with **3.5+ years of experience** across cloud operations, infrastructure support, Microsoft 365 compliance, database administration, monitoring, and automation-focused engineering. I work on building reliable cloud environments, improving operational visibility, supporting secure enterprise platforms, and documenting repeatable solutions for technical teams.
 
-My core strengths include **Microsoft Azure, Microsoft Entra ID, Terraform, Docker, Kubernetes, Microsoft Purview Compliance, Postgres, MySQL, Azure SQL, Azure Monitor, Log Analytics, and infrastructure operations**. Along with engineering work, I also create and teach **database fundamentals and cloud database labs**, helping learners understand DBMS/RDBMS concepts, SQL, PostgreSQL, MySQL, and cloud database deployment in a simple practical way.
+My core strengths include **Microsoft Azure, Microsoft Entra ID, Terraform, Docker, Kubernetes, Microsoft Purview Compliance, Postgres, MySQL, Azure SQL, Azure Monitor, Log Analytics, and infrastructure operations**. Along with engineering work, I also create and teach **database core concepts, SQL practice, and hands-on cloud database labs**., helping learners understand DBMS/RDBMS concepts, SQL, PostgreSQL, MySQL, and cloud database deployment in a simple practical way.
 
 ---
 
